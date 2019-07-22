@@ -1,0 +1,21 @@
+Create a 5x5 numpy array with random values. Find the largest and the smallest value in the array
+Create a numpy array of marks of 20 students (mark < 1200). Find the percentage of marks obtained by each student (mark*100/1200)
+Find the first mark and the last mark 
+Create a numpy array of 50 random elements. Normalize the array (Normalized Value=(val-min)/(max-min))
+Create two numpy arrays. Find the common elements existing in them
+Combine the two arrays to create a new array, that does not contain the common elements
+Find the index of occurrence of a value in a numpy array
+Find all indices of occurrence of a value in a numpy array
+Create two numpy arrays. Find the index values where the two arrays match
+Extract all numbers between a given range in a numpy array
+Identify mean, median and standard deviation of a numpy array
+Create a numpy array of 50 elements between 1 and 10. Replace all occurrence of 2 with 22.
+Display the unique values in a numpy array
+Display the second largest value in a numpy array
+Display the nth largest value in a numpy array. n is given by the user
+Read the file weather1week.csv
+Show the average temperature of the place
+Display the coldest temperature and the hottest temperature
+Display the temperatures that are hotter than the average temperature
+Display the number of hours that were colder than the average temperature
+Display the date and time of the coldest temperature and the hottest temperature
